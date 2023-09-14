@@ -1,13 +1,14 @@
 # TODO Please edit the following information in your assignment
 
-- Name:
-- How many hours did it take you to complete this assignment?
-- Did you collaborate with any other students/TAs/Professors?
+- Name:Yuxuan Ren
+- How many hours did it take you to complete this assignment?  3 hours
+- Did you collaborate with any other students/TAs/Professors?  No
 - Did you use any external resources? (Cite them below)
-  - tbd
-  - tbd
+  - No
 - (Optional) What was your favorite part of the assignment?
+  The Reading part and the Pythin Class. The reading part was very interesting and the video course from Linkedin gave me a refresher on Python
 - (Optional) How would you improve the assignment?
+  
 
 # Implementation Logistics
 

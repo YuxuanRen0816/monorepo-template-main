@@ -6,31 +6,32 @@
 
 <hr>
 
-**Use Case**: *use-case-title*
+**Use Case**: *Color Selection through Number Keys*
 
-**Primary Actor**: *primary-actor*
+**Primary Actor**: *User*
 
-**Goal in Context**: *the aim of the primary-actor in a particular circumstance*
+**Goal in Context**: *To allow the user to select different drawing colors using number keys*
 
-**Preconditions**: *conditions that must be true before the scenario may play out*
+**Preconditions**: *The drawing application is running and responsive*
 
-**Trigger**: *an action or actions that initiate the scenario*
+**Trigger**: *The user pressing number keys 1 through 8*
   
-**Scenario**: *an enumerated list of steps describing the actions and interactions of the primary actor with the system*
+**Scenario**: *The user presses a number key between 1 to 8.
+                The system changes the current drawing color according to the key pressed*
  
-**Exceptions**: *errors or faults that may occur during the scenario. Should include remedy/corrective action taken by the primary actor*
+**Exceptions**: *The application may not recognize keypress events due to system lag. In such cases, the user should try pressing the key again*
 
-**Priority**: *relative importance of this use case compared to other use cases*
+**Priority**: *Medium-priority*
 
-**When available**: *the targeted release that covers this use case*
+**When available**: *First release*
 
-**Channel to actor**: *the means through which the primary actor and the system communicate*
+**Channel to actor**: *Keyboard*
 
-**Secondary Actor**: *any other actors – people or systems – that may be involved in the scenario*
+**Secondary Actor**: * N/A*
 
-**Channels to Secondary Actors**: *the means through which any secondary actors may interact with the system or other actors*
+**Channels to Secondary Actors**: * N/A*
 
-**Open Issues**: *notes, concerns, or other materials*
+**Open Issues**: *Future versions may support more color options or custom color palettes*
 
 <hr>
 

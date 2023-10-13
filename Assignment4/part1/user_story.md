@@ -1,4 +1,4 @@
-As a <user> I can <save my artwork>, so that <I can continue working on it later>
+As a user I can save my artwork, so that I can continue working on it later
 
 Acceptance Criteria:
 
